@@ -1,0 +1,21 @@
+{
+  "name": "bower install angular-ui-tinymce --save-dev",
+  "authors": [
+    "martykells <martykells@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "angular-ui-tinymce": "^0.0.16"
+  }
+}
